@@ -118,19 +118,21 @@ nav {
 }
 
 .text-header p {
-   color: #ffffff;
-   font-size: 18px;
+   color: #fff;
+   font-size: 20px;
    font-weight: 400px;
    margin-top: 20px;
-   background-color: rgb(43, 178, 102);
-
+   background-color: none;
+   font-weight: 900;
+   text-shadow: -1px -1px 1px #333, 1px -1px 1px #333, -1px 1px 1px #333, 1px 1px 1px #333;
 }
+
 
  .btn-a {
    display: inline-block;
    margin: 35px 0px;
    padding: 10px 25px;
-   border: 2px solid rgb(214, 255, 10);
+   border: 2px solid rgb(18, 94, 8);
    border-radius: 25px;
    color: #fff;
 
@@ -222,7 +224,7 @@ nav {
       margin-top: -50px;
    }
    .img-header img {
-      width: 650px;
+      width: 550px;
    }
 
  }
