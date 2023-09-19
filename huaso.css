@@ -421,6 +421,10 @@ nav {
    margin-right: 0px;
    width: 0px;
 }
+.img-04 {
+   margin-right: 0px;
+   width: 0px;
+}
 
 .txt-portfolio {
    align-self: center;
@@ -513,6 +517,23 @@ nav {
          .btn-e {
             margin-top: 50px;
          }
+         .btn-f {
+            display: inline-block;
+            margin-top: 20px;
+            background: linear-gradient(to bottom, rgb(162,0,255), rgb(230,0,235));
+            border-radius: 25px;
+            padding: 14px 25px;
+            color: #fff;
+          }
+         
+          .btn-f:hover {
+            background: linear-gradient(to bottom, rgb(255,0,153), rgb(179,0,238));
+         
+          }
+
+         .btn-f {
+            margin-top: 50px;
+         }
       
    
 
@@ -547,6 +568,10 @@ nav {
       width: 300px;
    }
    .img-03 {
+      margin-right: 50px;
+      width: 300px;
+   }
+   .img-04 {
       margin-right: 50px;
       width: 300px;
    }
